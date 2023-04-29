@@ -1,0 +1,51 @@
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe.config
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.pdb
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.dll
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.pdb
+F:\Code C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.xml
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_AlertBox.resources
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Update.resources
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Clean.resources
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Dm_CB.resources
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Properties.Resources.resources
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.GenerateResource.cache
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CoreCompileInputs.cache
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CopyComplete
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.exe
+F:\Code C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.pdb
+E:\C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe.config
+E:\C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe
+E:\C#\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.pdb
+E:\C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.dll
+E:\C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.pdb
+E:\C#\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.xml
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_AlertBox.resources
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Update.resources
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Clean.resources
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Dm_CB.resources
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Properties.Resources.resources
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.GenerateResource.cache
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CoreCompileInputs.cache
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CopyComplete
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.exe
+E:\C#\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.pdb
+D:\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe.config
+D:\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.exe
+D:\WinClean\Clean_Recycle\bin\Debug\Clean_Recycle.pdb
+D:\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.dll
+D:\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.pdb
+D:\WinClean\Clean_Recycle\bin\Debug\AutoUpdater.NET.xml
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.AssemblyReference.cache
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.SuggestedBindingRedirects.cache
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_AlertBox.resources
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Update.resources
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Clean.resources
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Frm_Dm_CB.resources
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.Properties.Resources.resources
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.GenerateResource.cache
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CoreCompileInputs.cache
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.csproj.CopyComplete
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.exe
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.pdb
+D:\WinClean\Clean_Recycle\obj\Debug\Clean_Recycle.FrmHome.resources
